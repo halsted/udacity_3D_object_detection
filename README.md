@@ -2,7 +2,7 @@
 
 ## Section 1: Compute Lida Point-Cloud from Range Image
 
-In this section, I wrote the code for the function show_range_image in objdet_pcl.py to visualize range image channels.
+In this section, I wrote the code for the function show_range_image in objdet_pcl.py to visualize range image channels. The images below are the combined "range" and "intensity" channels within the range image.
 
 Here is the range image for frame 0 of Sequence 1:
 
