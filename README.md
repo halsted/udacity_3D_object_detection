@@ -22,6 +22,6 @@ Frame 1, Sequence 3, Intensity channel of range image
 
 Frame 1, Sequence 3, Lidar point-cloud in 3d viewer
 
-![image](https://user-images.githubusercontent.com/7365421/192068776-909c83aa-3a1a-4633-addd-b37bbc62d69f.png)
+![image](https://user-images.githubusercontent.com/7365421/192069653-6b16ec9d-7c2e-4df1-8c12-0b54fcb6fea7.png)
 
 In Frame 1, the two cars ahead of the Waymo Driver are visible in both the lidar point-cloud and the intensity channel of the range image. 
