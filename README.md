@@ -24,4 +24,4 @@ Frame 1, Sequence 3, Lidar point-cloud in 3d viewer
 
 ![image](https://user-images.githubusercontent.com/7365421/192069653-6b16ec9d-7c2e-4df1-8c12-0b54fcb6fea7.png)
 
-In Frame 1, the two cars ahead of the Waymo Driver are visible in both the lidar point-cloud and the intensity channel of the range image. 
+In Frame 1, I can see a line of parked cars on the left of the range image and also in the lidar point-cloud as a sequence of cyan rectangles. In the range image, I can see the rear bumper and tail-lights of several cars in front of the Waymo Driver. It seems that two separate cars from the range image are a single blob in the lidar point-cloud.
