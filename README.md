@@ -2,7 +2,8 @@
 
 ## Section 1: Compute Lida Point-Cloud from Range Image
 
-In this section, I wrote the code for the function show_range_image in objdet_pcl.py. Using the file training_segment-1005081002024129653_5313_150_5333_150_with_camera_labels.tfrecord (Sequence 1), I visualized frames 0 and 1.
+In this section, I wrote the code for the function show_range_image in objdet_pcl.py. Using the tfrecord file for sequence 1, I visualized frames 0 and 1.
+
 Here is the range image for frame 0:
 
 ![image](https://user-images.githubusercontent.com/7365421/192066053-ba1f38c2-9d84-468b-bb80-906da45bed99.png)
