@@ -22,4 +22,6 @@ Frame 1, Sequence 3, Intensity channel of range image
 
 Frame 1, Sequence 3, Lidar point-cloud in 3d viewer
 
-![image](https://user-images.githubusercontent.com/7365421/192067792-35113c56-df03-4eaa-9179-c7d59cc292ea.png)
+![image](https://user-images.githubusercontent.com/7365421/192068691-72f0fcb7-16cc-4c08-8de3-1d10701dbbea.png)
+
+
