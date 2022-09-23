@@ -13,3 +13,13 @@ Here is the range image for frame 0 of Sequence 1:
 Here is the range image for frame 1 of Sequence 1:
 
 ![image](https://user-images.githubusercontent.com/7365421/192066536-d3c6384f-3862-4f45-b26b-adc855db06f7.png)
+
+### Visualize lidar point-cloud
+
+Frame 1, Sequence 3, Intensity channel of range image
+
+![image](https://user-images.githubusercontent.com/7365421/192067657-461d71ef-89a2-4924-b8c9-0250cf5317ab.png)
+
+Frame 1, Sequence 3, Lidar point-cloud in 3d viewer
+
+![image](https://user-images.githubusercontent.com/7365421/192067792-35113c56-df03-4eaa-9179-c7d59cc292ea.png)
