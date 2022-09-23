@@ -1,6 +1,8 @@
 # udacity_3D_object_detection
 
-## Section 1: Compute Lida Point-Cloud from Range Image
+## Section 1: Compute Lidar Point-Cloud from Range Image
+
+### Visualize range image channels
 
 In this section, I wrote the code for the function show_range_image in objdet_pcl.py to visualize range image channels. The images below are the combined "range" and "intensity" channels within the range image.
 
