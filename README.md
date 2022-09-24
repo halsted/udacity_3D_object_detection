@@ -42,3 +42,12 @@ Frame 29, Sequence 3, Street perspective of lidar point-cloud
 
 In frame 29, the Waymo driver has passed many of the passed cars on the left side of the road, as seen in the BEV point-cloud. I can still see the bumper and tail-lights of the car in front of the Waymo Driver in the range image. The car appears to be travelling at about the same speed and staying the same distance ahead of the Waymo Driver. This car can also be seen in the lidar point-cloud as a cyan blob.
 
+Frame 37, Sequence 3, Intensity channel of range image
+
+![image](https://user-images.githubusercontent.com/7365421/192072283-d9a35664-c501-4fdc-94c0-a343d2361d3d.png)
+
+Frame 37, Sequence 3, Zoomed view of Lidar point-cloud (BEV) 
+
+![image](https://user-images.githubusercontent.com/7365421/192072436-9b4f08e7-62e2-40d7-b58a-93674ecc86c5.png)
+
+
