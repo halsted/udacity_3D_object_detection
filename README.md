@@ -52,22 +52,6 @@ Frame 37, Sequence 3, Zoomed view of Lidar point-cloud (BEV)
 
 Again, bumpers and tail-lights are distinguishing features in the range image. There are no distinguishable features from the lidar point-cloud.
 
-Frame 60, Sequence 3, Intensity channel of range image
-
-![image](https://user-images.githubusercontent.com/7365421/192072691-6c1d167f-487e-4f8e-825e-b5a796db5942.png)
-
-Frame 60, Sequence 3, Zoomed view of Lidar point-cloud (BEV)
-
-![image](https://user-images.githubusercontent.com/7365421/192072784-162b0d02-264f-4f72-b70b-5ba716377582.png)
-
-Frame 82, Sequence 3, Intensity channel of range image
-
-![image](https://user-images.githubusercontent.com/7365421/192072887-b9110245-d64f-4e44-94e8-48664d671c0a.png)
-
-Frame 82, Sequence 3, Zoomed view of Lidar point-cloud (BEV)
-
-![image](https://user-images.githubusercontent.com/7365421/192072937-b9c4e4e5-46c7-48bd-b9e0-602eb55260d6.png)
-
 Frame 115, Sequence 3, Intensity channel of range image
 
 ![image](https://user-images.githubusercontent.com/7365421/192073024-ed64380d-98fd-4a3b-bd1a-1b4095c89e34.png)
@@ -89,3 +73,14 @@ Frame 136, Sequence 3, Street perspective of lidar point-cloud
 ![image](https://user-images.githubusercontent.com/7365421/192073755-9a997818-1437-44c2-ae56-36f4aad8dc86.png)
 
 In frame 136, I can clearly see the truck to the right of the Waymo Driver in the lidar point-cloud. I can also clearly see the car in front. These are both visible in the range image as well as the lidar point-cloud.
+
+Frame 159, Sequence 3, Intensity channel of range image
+
+![image](https://user-images.githubusercontent.com/7365421/192073968-92576b94-7a9b-4831-a31a-f0d8a9d6d678.png)
+
+Frame 159, Sequence 3, Street perspective of lidar point-cloud
+
+![image](https://user-images.githubusercontent.com/7365421/192074112-a16f3bd7-02d4-4bdb-9da4-8b25ac79dfd1.png)
+
+In frame 159, I can see 2 people to the left of the Waymo Driver as well as 2 vehicles to the right of the Waymo Driver.
+
