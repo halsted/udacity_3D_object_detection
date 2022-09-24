@@ -50,4 +50,6 @@ Frame 37, Sequence 3, Zoomed view of Lidar point-cloud (BEV)
 
 ![image](https://user-images.githubusercontent.com/7365421/192072436-9b4f08e7-62e2-40d7-b58a-93674ecc86c5.png)
 
+Again, bumpers and tail-lights are distinguishing features in the range image. There are no distinguishable features from the lidar point-cloud.
+
 
