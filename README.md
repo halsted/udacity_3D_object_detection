@@ -31,3 +31,8 @@ In Frame 1, I can see a line of parked cars on the left of the range image and a
 Frame 29, Sequence 3, Intensity channel of range image
 
 ![image](https://user-images.githubusercontent.com/7365421/192071381-7bd010ec-af40-43be-9663-39e5a45c8f3e.png)
+
+Frame 29, Sequence 3, Lidar point-cloud in 3d viewer
+
+![image](https://user-images.githubusercontent.com/7365421/192071478-39775195-4e3d-4ab6-a40a-908b49d0959a.png)
+
