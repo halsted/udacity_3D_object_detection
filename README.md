@@ -80,4 +80,12 @@ Frame 115, Sequence 3, Street perspective of lidar point-cloud
 
 ![image](https://user-images.githubusercontent.com/7365421/192073246-4f00d386-4071-4063-87cd-292945ab54d3.png)
 
+Frame 136, Sequence 3, Intensity channel of range image
 
+![image](https://user-images.githubusercontent.com/7365421/192073668-1cb73b68-1906-44fe-a7bc-b8a56ca2003c.png)
+
+Frame 136, Sequence 3, Street perspective of lidar point-cloud
+
+![image](https://user-images.githubusercontent.com/7365421/192073755-9a997818-1437-44c2-ae56-36f4aad8dc86.png)
+
+In frame 136, I can clearly see the truck to the right of the Waymo Driver in the lidar point-cloud. I can also clearly see the car in front. These are both visible in the range image as well as the lidar point-cloud.
