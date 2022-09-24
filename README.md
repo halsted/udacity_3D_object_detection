@@ -52,4 +52,32 @@ Frame 37, Sequence 3, Zoomed view of Lidar point-cloud (BEV)
 
 Again, bumpers and tail-lights are distinguishing features in the range image. There are no distinguishable features from the lidar point-cloud.
 
+Frame 60, Sequence 3, Intensity channel of range image
+
+![image](https://user-images.githubusercontent.com/7365421/192072691-6c1d167f-487e-4f8e-825e-b5a796db5942.png)
+
+Frame 60, Sequence 3, Zoomed view of Lidar point-cloud (BEV)
+
+![image](https://user-images.githubusercontent.com/7365421/192072784-162b0d02-264f-4f72-b70b-5ba716377582.png)
+
+Frame 82, Sequence 3, Intensity channel of range image
+
+![image](https://user-images.githubusercontent.com/7365421/192072887-b9110245-d64f-4e44-94e8-48664d671c0a.png)
+
+Frame 82, Sequence 3, Zoomed view of Lidar point-cloud (BEV)
+
+![image](https://user-images.githubusercontent.com/7365421/192072937-b9c4e4e5-46c7-48bd-b9e0-602eb55260d6.png)
+
+Frame 115, Sequence 3, Intensity channel of range image
+
+![image](https://user-images.githubusercontent.com/7365421/192073024-ed64380d-98fd-4a3b-bd1a-1b4095c89e34.png)
+
+Frame 115, Sequence 3, Zoomed view of Lidar point-cloud (BEV)
+
+![image](https://user-images.githubusercontent.com/7365421/192073078-69288ef6-6058-4b45-9378-1f1d88a98de5.png)
+
+Frame 115, Sequence 3, Street perspective of lidar point-cloud
+
+![image](https://user-images.githubusercontent.com/7365421/192073246-4f00d386-4071-4063-87cd-292945ab54d3.png)
+
 
