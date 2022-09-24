@@ -28,3 +28,6 @@ In Frame 1, I can see a line of parked cars on the left of the range image and a
 
 ![image](https://user-images.githubusercontent.com/7365421/192070860-662d20dc-b468-4cf9-9a23-8ab03882b68f.png)
 
+Frame 29, Sequence 3, Intensity channel of range image
+
+![image](https://user-images.githubusercontent.com/7365421/192071381-7bd010ec-af40-43be-9663-39e5a45c8f3e.png)
