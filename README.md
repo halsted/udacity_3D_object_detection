@@ -36,3 +36,6 @@ Frame 29, Sequence 3, Lidar point-cloud in 3d viewer
 
 ![image](https://user-images.githubusercontent.com/7365421/192071478-39775195-4e3d-4ab6-a40a-908b49d0959a.png)
 
+Frame 29, Sequence 3, Rotated view of lidar point-cloud
+
+![image](https://user-images.githubusercontent.com/7365421/192071763-079947f9-e97c-4731-8e0a-9e3320e328a9.png)
