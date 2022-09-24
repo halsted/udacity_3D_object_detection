@@ -32,10 +32,11 @@ Frame 29, Sequence 3, Intensity channel of range image
 
 ![image](https://user-images.githubusercontent.com/7365421/192071381-7bd010ec-af40-43be-9663-39e5a45c8f3e.png)
 
-Frame 29, Sequence 3, Lidar point-cloud in 3d viewer
+Frame 29, Sequence 3, Lidar point-cloud in 3d viewer (Bird's Eye View)
 
 ![image](https://user-images.githubusercontent.com/7365421/192071478-39775195-4e3d-4ab6-a40a-908b49d0959a.png)
 
-Frame 29, Sequence 3, Rotated view of lidar point-cloud
+Frame 29, Sequence 3, Street perspective of lidar point-cloud
 
-![image](https://user-images.githubusercontent.com/7365421/192071763-079947f9-e97c-4731-8e0a-9e3320e328a9.png)
+![image](https://user-images.githubusercontent.com/7365421/192071850-ec540a93-0a5d-4259-8f5e-f80d60c315ac.png)
+
