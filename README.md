@@ -92,6 +92,9 @@ In Frame 150, the people and the car in the right lane are visible, as they were
 ![image](https://user-images.githubusercontent.com/7365421/192385159-19008abd-27be-482c-9573-9fe8c4d68ef5.png)
 ![image](https://user-images.githubusercontent.com/7365421/192391362-b82e65b7-79ed-4619-96cf-28c519948fd3.png)
 
-### Analysis
+### Summary
+The LPC shows 3D shapes that identify the shape of the vehicle. Often the side-view mirrow can be distinguished. The intensity channel of the range image shows tail-lights and bumpers quite well. The side-view of vehicles can also be seen clearly in the range image. Both the LPC and the range image contain valuable information that can be used for tracking vehicles, cyclists or pedestrians.
+
+
 
 
