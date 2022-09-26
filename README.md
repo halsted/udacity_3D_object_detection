@@ -22,25 +22,37 @@ Here is the range image for frame 1 of Sequence 1:
 ![image](https://user-images.githubusercontent.com/7365421/192372536-a503f0cb-f7f2-4443-9c34-949a551ea62a.png)
 ![image](https://user-images.githubusercontent.com/7365421/192373313-651b389e-ce41-400f-960c-019586bf1d28.png)
 
+In Frame 0, tail-lights and bumpers can be seen in the range image (intensity channel). There seems to be a line of parked cars on the left side of the road and a truck and car in the right lane, travelling in the same direction as the Waymo car. In the lidar point-cloud (LPC), the side-view mirrors of the vehicles can be detected as well as the shape of the vehicle.
+
 ### #2 - Frame 15
 ![image](https://user-images.githubusercontent.com/7365421/192373812-671051c9-3dd9-423a-a8ce-c0f3c6f07a37.png)
 ![image](https://user-images.githubusercontent.com/7365421/192374402-ddfbb74f-4801-4ce7-8c8b-4160721c7349.png)
+
+In Frame 15, the same vehicles and the same features (tail-lights, bumpers and side-view mirrors) as in Frame 0 can be seen.
 
 ### #3 - Frame 30
 ![image](https://user-images.githubusercontent.com/7365421/192375796-60428906-a5ca-4e47-a9e1-8b2de4457d02.png)
 ![image](https://user-images.githubusercontent.com/7365421/192376225-1e66064f-92be-4210-9912-9d942b108938.png)
 
+In Frame 30, the same features as in Frames 0 and 15 can be seen. The Waymo car has caught up to the truck and is in the process of passing it.
+
 ### #4 - Frame 45
 ![image](https://user-images.githubusercontent.com/7365421/192377170-50b66552-11c6-443d-88da-b453f34b711d.png)
 ![image](https://user-images.githubusercontent.com/7365421/192377875-be952fae-2ce1-494b-b7fe-314a65065346.png)
+
+In Frame 45, the range image shows the side view of two cars, one on each side of the Waymo car. There are also two cars ahead of the Waymo car in the right lane. 
 
 ### #5 - Frame 60
 ![image](https://user-images.githubusercontent.com/7365421/192378149-5c5d0892-0f0c-4dfe-b606-7d04c050a68b.png)
 ![image](https://user-images.githubusercontent.com/7365421/192378436-ccebcab9-931f-4d58-bb5a-a1795c09d07a.png)
 
+In Frame 60, there are two cars in the right lane ahead of the Waymo car. The range image clearly shows the tail-lights and bumpers. The LPC also shows these vehicles and shows the general shape of the vehicles. A car approaching on the left is also clearly visible in the LPC.
+
 ### #6 - Frame 75
 ![image](https://user-images.githubusercontent.com/7365421/192379793-99e8ae01-f795-4c1d-82d8-13024092fa08.png)
 ![image](https://user-images.githubusercontent.com/7365421/192380247-169c1e42-6094-45fd-b4f4-1fab41859546.png)
+
+Frame 75 shows the same two vehicles in the right lane. There is a vehicle approaching on the left side of the road, but it appears to be a different vehicle from the one on Frame 60. The general vehicle shape can be seen in the LPC. 
 
 ### #7 - Frame 90
 ![image](https://user-images.githubusercontent.com/7365421/192380515-e9831f42-98e0-4876-95cd-16da371e040c.png)
@@ -54,9 +66,13 @@ Here is the range image for frame 1 of Sequence 1:
 ![image](https://user-images.githubusercontent.com/7365421/192382151-141ec500-8e09-41fc-89e3-b3f31c6abad5.png)
 ![image](https://user-images.githubusercontent.com/7365421/192382648-1b61b54a-1c05-4e35-899e-f0e40f71f3a4.png)
 
+In Frame 120, two vehicles can be seen in both the range image and the LPC. One vehicle is on the right, travelling in the same direction as the Waymo car and the other vehicle is on the left and is going the opposite direction from the Waymo car. The bumpers and tail-lights are visible in the range image.
+
 ### #10 - Frame 135
 ![image](https://user-images.githubusercontent.com/7365421/192382863-86f95347-cf21-4dcc-95f8-dd89a2999adf.png)
 ![image](https://user-images.githubusercontent.com/7365421/192383117-6991c1f6-fc7c-4bad-ae56-3707ba397c3c.png)
+
+In Frame 135, two humans are visible in the distance to the left of the Waymo car. The people are visible in both the range image and the LPC. The vehicle in the right lane is also clearly visible.
 
 ### #11 - Frame 150
 ![image](https://user-images.githubusercontent.com/7365421/192383321-05692afc-c871-4956-9d64-9f0b16a43499.png)
