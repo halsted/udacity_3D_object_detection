@@ -78,6 +78,8 @@ In Frame 135, two humans are visible in the distance to the left of the Waymo ca
 ![image](https://user-images.githubusercontent.com/7365421/192383321-05692afc-c871-4956-9d64-9f0b16a43499.png)
 ![image](https://user-images.githubusercontent.com/7365421/192383568-28ce45fb-0098-4ad7-b261-b016248da018.png)
 
+In Frame 150, the people and the car in the right lane are visible, as they were in Frame 135.
+
 ### #12 - Frame 165
 ![image](https://user-images.githubusercontent.com/7365421/192383789-7c6517e8-fa2a-4f9f-b8fd-3d0d17fe19c0.png)
 ![image](https://user-images.githubusercontent.com/7365421/192384048-7035caa6-0d80-4244-8fc1-b9ddcb4f0db4.png)
@@ -88,7 +90,7 @@ In Frame 135, two humans are visible in the distance to the left of the Waymo ca
 
 ### #14 - Frame 195
 ![image](https://user-images.githubusercontent.com/7365421/192385159-19008abd-27be-482c-9573-9fe8c4d68ef5.png)
-![image](https://user-images.githubusercontent.com/7365421/192385475-426a03a7-7544-4e14-a4bf-869a071f8946.png)
+![image](https://user-images.githubusercontent.com/7365421/192391362-b82e65b7-79ed-4619-96cf-28c519948fd3.png)
 
 ### Analysis
 
