@@ -16,71 +16,64 @@ Here is the range image for frame 1 of Sequence 1:
 
 ### Visualize lidar point-cloud
 
-Frame 1, Sequence 3, Intensity channel of range image
+#### Find 10 examples of vehicles with varying degrees of visibility in the point-cloud
 
-![image](https://user-images.githubusercontent.com/7365421/192069829-36fe9c20-b972-4b15-a1f5-9d49ed9d2664.png)
+### #1 - Frame 0
+![image](https://user-images.githubusercontent.com/7365421/192372536-a503f0cb-f7f2-4443-9c34-949a551ea62a.png)
+![image](https://user-images.githubusercontent.com/7365421/192373313-651b389e-ce41-400f-960c-019586bf1d28.png)
 
-Frame 1, Sequence 3, Lidar point-cloud in 3d viewer
+### #2 - Frame 15
+![image](https://user-images.githubusercontent.com/7365421/192373812-671051c9-3dd9-423a-a8ce-c0f3c6f07a37.png)
+![image](https://user-images.githubusercontent.com/7365421/192374402-ddfbb74f-4801-4ce7-8c8b-4160721c7349.png)
 
-![image](https://user-images.githubusercontent.com/7365421/192069653-6b16ec9d-7c2e-4df1-8c12-0b54fcb6fea7.png)
+### #3 - Frame 30
+![image](https://user-images.githubusercontent.com/7365421/192375796-60428906-a5ca-4e47-a9e1-8b2de4457d02.png)
+![image](https://user-images.githubusercontent.com/7365421/192376225-1e66064f-92be-4210-9912-9d942b108938.png)
 
-In Frame 1, I can see a line of parked cars on the left of the range image and also in the lidar point-cloud as a sequence of cyan rectangles. In the range image, I can see the rear bumper and tail-lights of several cars in front of the Waymo Driver. It seems that two separate cars from the range image are a single blob in the lidar point-cloud. Here is a 3d rotated view of the same lidar point-cloud.
+### #4 - Frame 45
+![image](https://user-images.githubusercontent.com/7365421/192377170-50b66552-11c6-443d-88da-b453f34b711d.png)
+![image](https://user-images.githubusercontent.com/7365421/192377875-be952fae-2ce1-494b-b7fe-314a65065346.png)
 
-![image](https://user-images.githubusercontent.com/7365421/192070860-662d20dc-b468-4cf9-9a23-8ab03882b68f.png)
+### #5 - Frame 60
+![image](https://user-images.githubusercontent.com/7365421/192378149-5c5d0892-0f0c-4dfe-b606-7d04c050a68b.png)
+![image](https://user-images.githubusercontent.com/7365421/192378436-ccebcab9-931f-4d58-bb5a-a1795c09d07a.png)
 
-Frame 29, Sequence 3, Intensity channel of range image
+### #6 - Frame 75
+![image](https://user-images.githubusercontent.com/7365421/192379793-99e8ae01-f795-4c1d-82d8-13024092fa08.png)
+![image](https://user-images.githubusercontent.com/7365421/192380247-169c1e42-6094-45fd-b4f4-1fab41859546.png)
 
-![image](https://user-images.githubusercontent.com/7365421/192071381-7bd010ec-af40-43be-9663-39e5a45c8f3e.png)
+### #7 - Frame 90
+![image](https://user-images.githubusercontent.com/7365421/192380515-e9831f42-98e0-4876-95cd-16da371e040c.png)
+![image](https://user-images.githubusercontent.com/7365421/192380991-3773ea92-9e83-4c81-a5b5-cd0dcb6cb9c3.png)
 
-Frame 29, Sequence 3, Lidar point-cloud in 3d viewer (Bird's Eye View)
+### #8 - Frame 105
+![image](https://user-images.githubusercontent.com/7365421/192381324-6cf564bf-242d-4ea9-8964-fe2d63dd5a2e.png)
+![image](https://user-images.githubusercontent.com/7365421/192381936-2a5c3e39-357c-400c-a96f-aa468daebae6.png)
 
-![image](https://user-images.githubusercontent.com/7365421/192071478-39775195-4e3d-4ab6-a40a-908b49d0959a.png)
+### #9 - Frame 120
+![image](https://user-images.githubusercontent.com/7365421/192382151-141ec500-8e09-41fc-89e3-b3f31c6abad5.png)
+![image](https://user-images.githubusercontent.com/7365421/192382648-1b61b54a-1c05-4e35-899e-f0e40f71f3a4.png)
 
-Frame 29, Sequence 3, Street perspective of lidar point-cloud
+### #10 - Frame 135
+![image](https://user-images.githubusercontent.com/7365421/192382863-86f95347-cf21-4dcc-95f8-dd89a2999adf.png)
+![image](https://user-images.githubusercontent.com/7365421/192383117-6991c1f6-fc7c-4bad-ae56-3707ba397c3c.png)
 
-![image](https://user-images.githubusercontent.com/7365421/192071850-ec540a93-0a5d-4259-8f5e-f80d60c315ac.png)
+### #11 - Frame 150
+![image](https://user-images.githubusercontent.com/7365421/192383321-05692afc-c871-4956-9d64-9f0b16a43499.png)
+![image](https://user-images.githubusercontent.com/7365421/192383568-28ce45fb-0098-4ad7-b261-b016248da018.png)
 
-In frame 29, the Waymo driver has passed many of the passed cars on the left side of the road, as seen in the BEV point-cloud. I can still see the bumper and tail-lights of the car in front of the Waymo Driver in the range image. The car appears to be travelling at about the same speed and staying the same distance ahead of the Waymo Driver. This car can also be seen in the lidar point-cloud as a cyan blob.
+### #12 - Frame 165
+![image](https://user-images.githubusercontent.com/7365421/192383789-7c6517e8-fa2a-4f9f-b8fd-3d0d17fe19c0.png)
+![image](https://user-images.githubusercontent.com/7365421/192384048-7035caa6-0d80-4244-8fc1-b9ddcb4f0db4.png)
 
-Frame 37, Sequence 3, Intensity channel of range image
+### #13 - Frame 180
+![image](https://user-images.githubusercontent.com/7365421/192384685-ada6bb03-7dba-4db4-b9d4-b3e2ebcfd42d.png)
+![image](https://user-images.githubusercontent.com/7365421/192384991-0bd29352-cc83-49c5-ade9-4bdf84f3decd.png)
 
-![image](https://user-images.githubusercontent.com/7365421/192072283-d9a35664-c501-4fdc-94c0-a343d2361d3d.png)
+### #14 - Frame 195
+![image](https://user-images.githubusercontent.com/7365421/192385159-19008abd-27be-482c-9573-9fe8c4d68ef5.png)
+![image](https://user-images.githubusercontent.com/7365421/192385475-426a03a7-7544-4e14-a4bf-869a071f8946.png)
 
-Frame 37, Sequence 3, Zoomed view of Lidar point-cloud (BEV) 
+### Analysis
 
-![image](https://user-images.githubusercontent.com/7365421/192072436-9b4f08e7-62e2-40d7-b58a-93674ecc86c5.png)
-
-Again, bumpers and tail-lights are distinguishing features in the range image. There are no distinguishable features from the lidar point-cloud.
-
-Frame 115, Sequence 3, Intensity channel of range image
-
-![image](https://user-images.githubusercontent.com/7365421/192073024-ed64380d-98fd-4a3b-bd1a-1b4095c89e34.png)
-
-Frame 115, Sequence 3, Zoomed view of Lidar point-cloud (BEV)
-
-![image](https://user-images.githubusercontent.com/7365421/192073078-69288ef6-6058-4b45-9378-1f1d88a98de5.png)
-
-Frame 115, Sequence 3, Street perspective of lidar point-cloud
-
-![image](https://user-images.githubusercontent.com/7365421/192073246-4f00d386-4071-4063-87cd-292945ab54d3.png)
-
-Frame 136, Sequence 3, Intensity channel of range image
-
-![image](https://user-images.githubusercontent.com/7365421/192073668-1cb73b68-1906-44fe-a7bc-b8a56ca2003c.png)
-
-Frame 136, Sequence 3, Street perspective of lidar point-cloud
-
-![image](https://user-images.githubusercontent.com/7365421/192073755-9a997818-1437-44c2-ae56-36f4aad8dc86.png)
-
-In frame 136, I can clearly see the truck to the right of the Waymo Driver in the lidar point-cloud. I can also clearly see the car in front. These are both visible in the range image as well as the lidar point-cloud.
-
-Frame 159, Sequence 3, Intensity channel of range image
-
-![image](https://user-images.githubusercontent.com/7365421/192073968-92576b94-7a9b-4831-a31a-f0d8a9d6d678.png)
-
-Frame 159, Sequence 3, Street perspective of lidar point-cloud
-
-![image](https://user-images.githubusercontent.com/7365421/192074112-a16f3bd7-02d4-4bdb-9da4-8b25ac79dfd1.png)
-
-In frame 159, I can see 2 people to the left of the Waymo Driver as well as 2 vehicles to the right of the Waymo Driver.
 
