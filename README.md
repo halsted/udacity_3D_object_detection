@@ -38,7 +38,7 @@ In Frame 30, the same features as in Frames 0 and 15 can be seen. The Waymo car 
 
 ### #4 - Frame 45
 ![image](https://user-images.githubusercontent.com/7365421/192377170-50b66552-11c6-443d-88da-b453f34b711d.png)
-![image](https://user-images.githubusercontent.com/7365421/192377875-be952fae-2ce1-494b-b7fe-314a65065346.png)
+![image](https://user-images.githubusercontent.com/7365421/192391589-95349503-036a-4edb-b7a8-1946cf80c003.png)
 
 In Frame 45, the range image shows the side view of two cars, one on each side of the Waymo car. There are also two cars ahead of the Waymo car in the right lane. 
 
@@ -60,17 +60,17 @@ Frame 75 shows the same two vehicles in the right lane. There is a vehicle appro
 
 ### #8 - Frame 105
 ![image](https://user-images.githubusercontent.com/7365421/192381324-6cf564bf-242d-4ea9-8964-fe2d63dd5a2e.png)
-![image](https://user-images.githubusercontent.com/7365421/192381936-2a5c3e39-357c-400c-a96f-aa468daebae6.png)
+![image](https://user-images.githubusercontent.com/7365421/192392402-169be4b3-5888-4ce5-aec1-9ff917341508.png)
 
 ### #9 - Frame 120
 ![image](https://user-images.githubusercontent.com/7365421/192382151-141ec500-8e09-41fc-89e3-b3f31c6abad5.png)
-![image](https://user-images.githubusercontent.com/7365421/192382648-1b61b54a-1c05-4e35-899e-f0e40f71f3a4.png)
+![image](https://user-images.githubusercontent.com/7365421/192392766-02af1b90-b0d1-4e1d-8f16-fea98586f041.png)
 
 In Frame 120, two vehicles can be seen in both the range image and the LPC. One vehicle is on the right, travelling in the same direction as the Waymo car and the other vehicle is on the left and is going the opposite direction from the Waymo car. The bumpers and tail-lights are visible in the range image.
 
 ### #10 - Frame 135
 ![image](https://user-images.githubusercontent.com/7365421/192382863-86f95347-cf21-4dcc-95f8-dd89a2999adf.png)
-![image](https://user-images.githubusercontent.com/7365421/192383117-6991c1f6-fc7c-4bad-ae56-3707ba397c3c.png)
+![image](https://user-images.githubusercontent.com/7365421/192393144-25161c05-a11a-41e0-85e9-30ae8fbbb554.png)
 
 In Frame 135, two humans are visible in the distance to the left of the Waymo car. The people are visible in both the range image and the LPC. The vehicle in the right lane is also clearly visible.
 
