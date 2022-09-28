@@ -138,4 +138,25 @@ ious =  [0.8151514220492396, 0.8872181822459977, 0.846240903597746]
 center_devs =  [[tensor(0.1476), tensor(0.0107), 0.9899635729132115], [tensor(-0.0901), tensor(0.0576), 0.8152483974641882], [tensor(0.0823), tensor(-0.0027), 0.8711946193956237]]
 
 ### Compute precision and recall
+configs_det.use_labels_as_objects = False # True = use groundtruth labels as objects, False = use model-based detection
 
+using darknet
+
+Loaded weights from /home/workspace/tools/objdet_models/darknet/pretrained/complex_yolov4_mse_loss.pth
+
+p =  306 tp =  289 fn =  17 fp =  15
+
+precision = 0.9506578947368421, recall = 0.9444444444444444
+
+![image](https://user-images.githubusercontent.com/7365421/192907413-b9caa972-b8ef-4ef6-8cd1-5289d3b83535.png)
+
+configs_det.use_labels_as_objects = True # True = use groundtruth labels as objects, False = use model-based detection
+
+using darknet
+
+Loaded weights from /home/workspace/tools/objdet_models/darknet/pretrained/complex_yolov4_mse_loss.pth
+
+p =  306 tp =  306 fn =  0 fp =  0
+
+precision = 1.0, recall = 1.0
+![image](https://user-images.githubusercontent.com/7365421/192908171-5ff37a0f-09e0-4221-b99d-5cdadca01f37.png)
