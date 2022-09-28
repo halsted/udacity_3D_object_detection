@@ -7,11 +7,9 @@
 In this section, I wrote the code for the function show_range_image in objdet_pcl.py to visualize range image channels. The images below are the combined "range" and "intensity" channels within the range image.
 
 Here is the range image for frame 0 of Sequence 1:
-
 ![image](https://user-images.githubusercontent.com/7365421/192066053-ba1f38c2-9d84-468b-bb80-906da45bed99.png)
 
 Here is the range image for frame 1 of Sequence 1:
-
 ![image](https://user-images.githubusercontent.com/7365421/192066536-d3c6384f-3862-4f45-b26b-adc855db06f7.png)
 
 ### Visualize lidar point-cloud
@@ -95,6 +93,33 @@ In Frame 150, the people and the car in the right lane are visible, as they were
 ### Summary
 The LPC shows 3D shapes that identify the shape of the vehicle. Often the side-view mirrow can be distinguished. The intensity channel of the range image shows tail-lights and bumpers quite well. The side-view of vehicles can also be seen clearly in the range image. Both the LPC and the range image contain valuable information that can be used for tracking vehicles, cyclists or pedestrians.
 
+## Section 2: Create Birds-Eye View from Lidar PCL
+
+### Convert sensor coordinates to BEV-map coordinates
+
+![image](https://user-images.githubusercontent.com/7365421/192896591-70c32a62-3f81-40bc-8ee6-6449c307279d.png)
+
+### Compute intensity layer of the BEV map
+![image](https://user-images.githubusercontent.com/7365421/192897097-8a58604c-d31f-4618-ad94-75214e1fa883.png)
+
+### Compute height layer of the BEV map
+![image](https://user-images.githubusercontent.com/7365421/192897225-c8b1c194-7000-4f36-9507-2161d0c038dd.png)
+
+## Section 3: Model-based Object Detection in BEV Image
+
+Frame 50 (Model: fpn_resnet)
+
+Detections =  [[9.7223872e-01 3.5127075e+02 2.1875238e+02 1.0574490e+00 1.6241086e+00 2.0172737e+01 4.7542793e+01 1.3822034e-02]
+ [6.2091374e-01 3.1184229e+02 3.5521008e+02 1.1316251e+00 1.7765539e+00 2.0849136e+01 4.6748154e+01 8.4769009e-03]]
+
+![image](https://user-images.githubusercontent.com/7365421/192898764-d6d1f4fb-5877-493f-9b63-129769d41a53.png)
+
+Frame 51 (Model: fpn_resnet)
+
+Detections =  [[ 9.0935498e-01  3.5153265e+02  2.1939409e+02  1.0489278e+00 1.6082902e+00  2.0308041e+01  4.8363377e+01  1.2367926e-02]
+ [ 8.0556726e-01  3.1226596e+02  3.5451572e+02  1.1078370e+00 1.7661636e+00  2.0709120e+01  4.8925690e+01  6.6410162e-02]
+ [ 7.8161055e-01  3.5299170e+02  6.0305402e+02  1.2087984e+00 1.6976428e+00  1.9822773e+01  5.0056713e+01 -3.2651678e-02]]
+![image](https://user-images.githubusercontent.com/7365421/192899543-a7295273-3c0b-4cc8-a8d7-017ee1fcf283.png)
 
 
 
