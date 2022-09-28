@@ -121,5 +121,21 @@ Detections =  [[ 9.0935498e-01  3.5153265e+02  2.1939409e+02  1.0489278e+00 1.60
  [ 7.8161055e-01  3.5299170e+02  6.0305402e+02  1.2087984e+00 1.6976428e+00  1.9822773e+01  5.0056713e+01 -3.2651678e-02]]
 ![image](https://user-images.githubusercontent.com/7365421/192899543-a7295273-3c0b-4cc8-a8d7-017ee1fcf283.png)
 
+## Section 4: Performance Evaluation for Object Detection
 
+### Compute intersection-over-union between labels and detections
+
+Frame 50 (Model: darknet)
+
+ious =  [0.8234376907650102, 0.8903358055776488, 0.8747769919519454]
+
+center_devs =  [[tensor(0.1402), tensor(-0.0197), 1.0292643213596193], [tensor(-0.0818), tensor(0.0686), 0.8291298942401681], [tensor(0.0840), tensor(0.0247), 0.8929607095304846]]
+
+Frame 51 (Model: darknet)
+
+ious =  [0.8151514220492396, 0.8872181822459977, 0.846240903597746]
+
+center_devs =  [[tensor(0.1476), tensor(0.0107), 0.9899635729132115], [tensor(-0.0901), tensor(0.0576), 0.8152483974641882], [tensor(0.0823), tensor(-0.0027), 0.8711946193956237]]
+
+### Compute precision and recall
 
