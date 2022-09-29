@@ -161,4 +161,5 @@ Loaded weights from /home/workspace/tools/objdet_models/darknet/pretrained/compl
 p =  306 tp =  306 fn =  0 fp =  0
 
 precision = 1.0, recall = 1.0
+
 ![image](https://user-images.githubusercontent.com/7365421/192908171-5ff37a0f-09e0-4221-b99d-5cdadca01f37.png)
